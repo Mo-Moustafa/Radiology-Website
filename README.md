@@ -5,6 +5,7 @@
 ## Table of contents
 - [Overview](#overview)
   - [Introduction](#introduction)
+  - [Screenshots](#Screenshots)
   - [Run the Project](#run-the-project)
 - [Team](#team)
 
@@ -34,6 +35,19 @@ Radiology website system with a responsive and neat user interface that helps al
 - View usage count of devices in a month (so a montly repair could be scheduled).
 - View all the patient's feedbacks.
 
+
+### Screenshots
+
+![Screenshot] (Screenshots/1.png)
+![Screenshot] (Screenshots/2.png)
+![Screenshot] (Screenshots/3.png)
+![Screenshot] (Screenshots/4.png)
+![Screenshot] (Screenshots/5.png)
+![Screenshot] (Screenshots/6.png)
+![Screenshot] (Screenshots/7.png)
+![Screenshot] (Screenshots/8.png)
+![Screenshot] (Screenshots/9.png)
+![Screenshot] (Screenshots/10.png)
 ### Run The project
 
 You need to install Flask and mySQL on your computer to be able to run the project.
