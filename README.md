@@ -38,16 +38,18 @@ Radiology website system with a responsive and neat user interface that helps al
 
 ### Screenshots
 
-![Screenshot] (Screenshots/1.png)
-![Screenshot] (Screenshots/2.png)
-![Screenshot] (Screenshots/3.png)
-![Screenshot] (Screenshots/4.png)
-![Screenshot] (Screenshots/5.png)
-![Screenshot] (Screenshots/6.png)
-![Screenshot] (Screenshots/7.png)
-![Screenshot] (Screenshots/8.png)
-![Screenshot] (Screenshots/9.png)
-![Screenshot] (Screenshots/10.png)
+<img src="Screenshots/1.png">
+<img src="Screenshots/2.png">
+<img src="Screenshots/3.png">
+<img src="Screenshots/4.png">
+<img src="Screenshots/5.png">
+<img src="Screenshots/6.png">
+<img src="Screenshots/7.png">
+<img src="Screenshots/8.png">
+<img src="Screenshots/9.png">
+<img src="Screenshots/10.png">
+
+
 ### Run The project
 
 You need to install Flask and mySQL on your computer to be able to run the project.
